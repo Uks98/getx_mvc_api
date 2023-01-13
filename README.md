@@ -1,16 +1,4 @@
-# getx_mvc_http
+#결과 화면
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1234](https://user-images.githubusercontent.com/91609886/212243201-f678c841-62e9-45be-a6a3-a0205591ec8c.png)
+![123](https://user-images.githubusercontent.com/91609886/212243203-874f72a8-9f7e-44c5-b709-e302971b216c.png)
