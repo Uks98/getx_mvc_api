@@ -126,8 +126,6 @@ class Item {
   factory Item.fromJson(Map<String, dynamic> json) => Item(
     fstvlNm: json["fstvlNm"],
     opar: json["opar"],
-    fstvlStartDate: json["fstvlStartDate"],
-    fstvlEndDate: json["fstvlEndDate"],
     fstvlCo: json["fstvlCo"],
     mnnst: json["mnnst"],
     auspcInstt: json["auspcInstt"],
@@ -139,7 +137,6 @@ class Item {
     lnmadr: json["lnmadr"],
     latitude: json["latitude"],
     longitude: json["longitude"],
-    referenceDate: json["referenceDate"],
     insttCode: json["insttCode"],
   );
 
